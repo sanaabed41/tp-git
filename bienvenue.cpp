@@ -1,32 +1,11 @@
 //Afficher un message de bienvenue
 
-//#include <iostream>
+#include <iostream>
 
-//int main()
-//{
-
-//std::cout <<"Bienvenue le monde!" << std::endl;
-//return 0;
-//}
-
-
-
-//TODO indiquer ce qui fait le programme
-
-int main ()
+int main()
 {
-//TODO Afficher un message de beinvenue 
+
+std::cout <<"Bienvenue le monde!" << std::endl;
 return 0;
 }
-
-
-
-
-
-
-
-
-
-
-
 
