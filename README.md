@@ -17,3 +17,4 @@ Le contenu d'un fichier source C++ :
 void afficherBienvenue();
 #endif // FONCTION_BIENVENUE_H
 ```
+#//modification dans le fichier
